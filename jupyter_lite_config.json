@@ -1,7 +1,6 @@
 {
     "XeusPythonEnv": {
         "packages": [
-            "git+https://github.com/chrispyles/otter-grader.git@deps",
             "pandas",
             "numpy",
             "statsmodels",
