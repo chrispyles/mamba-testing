@@ -1,11 +1,8 @@
 name: Build and Publish jupyterlite page to GitHub Pages
 on:
-  push:
-    branches:
-    - main  # specify 'master' if that is your main branch
-  pull_request:
-    branches:
-    - '*'
+  schedule:
+  - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
