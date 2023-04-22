@@ -1,0 +1,12 @@
+{
+    "XeusPythonEnv": {
+        "packages": [
+            "otter-grader",
+            "pandas",
+            "numpy",
+            "statsmodels",
+            "matplotlib",
+            "ipywidgets"
+        ]
+    }
+}
