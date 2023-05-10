@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q1_3',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> callable(a_cubed_plus_b_squared)\nTrue', 'hidden': False, 'locked': False},
