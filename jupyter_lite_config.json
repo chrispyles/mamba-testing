@@ -5,7 +5,7 @@
             "numpy",
             "statsmodels",
             "matplotlib",
-            "pdfkit",
+            "python-pdfkit",
             "pypdf"
         ]
     }
