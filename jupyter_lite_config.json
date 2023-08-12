@@ -4,7 +4,9 @@
             "pandas",
             "numpy",
             "statsmodels",
-            "matplotlib"
+            "matplotlib",
+            "pdfkit",
+            "pypdf"
         ]
     }
 }
